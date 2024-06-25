@@ -20,11 +20,11 @@
 
 # Technology Stack
 
-Frontend: ReactJS, Framer Motion
-Backend: Python, Django
-Database: SQL
-APIs: TMDB API
-Authentication: Firebase Google Authentication
+- **Frontend**: ReactJS, Framer Motion
+- **Backend**: Python, Django
+- **Database**: SQL
+- **APIs**: TMDB API (you can add another and description/steps to use it)
+- **Authentication**: Firebase Google Authentication
 
 <hr/>
 
