@@ -18,27 +18,19 @@
 
 <hr/>
 
-# Technology
+# Technology Stack
 
-The website is built using the following technologies:
-
-- **ReactJS**
-- **TMDB API**
-- **Firebase Google Authentication**
-- **Framer Motion**
-- **Python**
-- **SQL**
-- **Django**
+Frontend: ReactJS, Framer Motion
+Backend: Python, Django
+Database: SQL
+APIs: TMDB API
+Authentication: Firebase Google Authentication
 
 <hr/>
 
-# How add your code
-
-## Step 1: Upload the Code into separate file and name it
-
-
-## Step 2: Send notification via sms or email for all participants
-
+## How to Add Your Code
+Step 1: Upload the code into a separate file and name it.
+Step 2: Send notifications via SMS or email to all participants.
 
 
 ### ▶️ Instruction how to Get TMDB API Key 
@@ -56,6 +48,7 @@ Note that Firebase is only required for Google authentication.
 3. Next, to activate Google authentication in Firebase, go to **Build > Authentication** and enable Google authentication.
 4. To use Google authentication on localhost, add your localhost/127.0.0.1 as an Authorized Domain at **Build > Authentication > Settings > Authorized Domains**.
 
-## Step 3: Run the Website
+#### Step 3: Run the Website
 
-1. Open your code editor (such as VS Code or your favorite alternative editor) and navigate to the project directory.
+Open your code editor (such as VS Code or your favorite alternative editor) and navigate to the project directory.
+Follow the instructions to run the website.
